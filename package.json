@@ -1,0 +1,11 @@
+{
+  "name": "jquerymobile-swipeupdown",
+  "version": "0.1.0",
+  "homepage": "https://github.com/blackdynamo/jquerymobile-swipeupdown",
+  "description": "Purpose of forking the original repository is just to add a package.json so that it works with Yarn.",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-mobile": "^1.5.0-alpha.1"    
+  }
+}
